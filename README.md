@@ -1,8 +1,8 @@
 ## Installation
 
-Install from Sublime's Package Control.
+git clone this repo in Sublime Text's Packages directory
 
-## sublime text 2 snippets for mocha
+## Sublime Text snippets for mocha (in ES6 arrow functions style, no semicolon)
 
 This package has five snippets, use as follows:
 
@@ -11,6 +11,5 @@ This package has five snippets, use as follows:
 	aftr<tab>
 	suite<tab>
 	test<tab>
-
 
 ![usage](http://joseoncodecom.ipage.com/wp-content/uploads/images/mocha-snippets.gif)
