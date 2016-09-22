@@ -11,5 +11,3 @@ This package has five snippets, use as follows:
 	aftr<tab>
 	suite<tab>
 	test<tab>
-
-![usage](http://joseoncodecom.ipage.com/wp-content/uploads/images/mocha-snippets.gif)
